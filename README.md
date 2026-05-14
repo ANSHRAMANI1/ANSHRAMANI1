@@ -118,33 +118,28 @@
 # 😎 Let's Connect
 
 <p align="center">
-  
   <a 
-    href="mailto:work.anshramani3014@gmail.com"
-    style="margin-right:24px; text-decoration:none;"
+    href="mailto:work.anshramani3014@gmail.com" 
+    style="margin-right:24px;"
   >
     <img 
       src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"
       alt="Email"
       width="48"
       height="48"
-      style="display:inline-block;"
+      style="width:48px; height:48px;"
     />
   </a>
 
-  <a 
-    href="https://www.upwork.com/freelancers/~0169dbb8a7f7cf38e6"
-    style="text-decoration:none;"
-  >
+  <a href="https://www.upwork.com/freelancers/~0169dbb8a7f7cf38e6">
     <img 
       src="https://cdn.iconscout.com/icon/free/png-256/free-upwork-icon-svg-download-png-3030271.png?f=webp"
       alt="Upwork"
       width="48"
       height="48"
-      style="display:inline-block;"
+      style="width:48px; height:48px;"
     />
   </a>
-
 </p>
----
+
 <hr/>
