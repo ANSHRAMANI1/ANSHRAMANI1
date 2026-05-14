@@ -1,247 +1,131 @@
-<h1 align="center">Hi , I'm Ansh Ramani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Ansh Ramani
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
   <a href="https://github.com/ANSHRAMANI1">
-    <img src="https://readme-typing-svg.herokuapp.com?color=5BF751&center=true&lines=I+am+Entrepreneur;Artificial+Intelligence+Engineer.;I+am+Data+Scientist.;I+am+Learner.;I+am+Programmer.;I+am+Artist.">
+    <img src="https://readme-typing-svg.herokuapp.com?color=5BF751&center=true&lines=I+am+Entrepreneur;Artificial+Intelligence+Engineer;I+am+Data+Scientist;I+am+Learner;I+am+Programmer;I+am+Artist">
   </a>
 </p>
 
-<h2>About Me! 😎</h2>
+---
 
-- 🏫: I'm an Artificial Intelligence Engineer.
-- 🌱: I’m currently learning new things about AI Architectures and Algorithms. 🧠💻🤖
-- 🤔: I feel happy by helping others, feel free to contact me anytime.
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+# About Me! 😎
+
+- 🏫 I'm an Artificial Intelligence Engineer.
+- 🌱 Currently learning more about AI Architectures & Algorithms.
+- 🤔 I enjoy helping others, feel free to contact me anytime.
+- 💬 Ask me about Data Analysis, Visualization & Machine Learning.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play Games, Piano and draw Paintings! ⚽🎾🎹
+- ⚡ Fun fact: I play games, piano & draw paintings.
+
+---
 
 # Skills
 
-<h3 align="center">👉 Programming Languages</h3>
+<h3>👉 Programming Languages</h3>
 
-<p align="center">
+<div align="center">
 
-  <a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-33B9FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-  <a href="https://dart.dev/">
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-
-  <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-
-  <a href="#">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-33B9FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">👉 Frameworks</h3>
+<h3>👉 Frameworks</h3>
 
-<p align="center">
+<div align="center">
 
-  <a href="https://flutter.dev/" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>
-
-  <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-
-  <a href="https://pytorch.org/" target="_blank">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img alt="Conda" src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  </a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">👉 Databases & Cloud Hosting</h3>
+<h3>👉 Databases & Cloud Hosting</h3>
 
-<p align="center">
+<div align="center">
 
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
-  <a href="https://www.sqlite.org/">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://firebase.google.com/">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-  </a>
-
-  <a href="#">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">👉 Graphic Designing</h3>
+<h3>👉 Graphic Designing</h3>
 
-<p align="center">
+<div align="center">
 
-  <a href="#">
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
-  <a href="#">
-    <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
-  </a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">👉 Software & Tools</h3>
+<h3>👉 Software & Tools</h3>
 
-<p align="center">
+<div align="center">
 
-  <a href="#">
-    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
-
-  <a href="#">
-    <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  </a>
-
-  <a href="#">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
 
   <br><br>
 
-  <a href="#">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
-  <a href="#">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </a>
-
-  <a href="#">
-    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-  </a>
-
-</p>
+</div>
 
 ---
 
-## 😎 Let's Connect
+# 😎 Let's Connect
 
 <p align="center">
 
-  <a href="mailto:work.anshramani3014@gmail.com" style="margin-right:24px;">
+  <a href="mailto:work.anshramani3014@gmail.com">
     <img 
       src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"
       alt="Email"
       width="48"
       height="48"
-      style="width:48px; height:48px;"
+      style="margin-right:24px;"
     />
   </a>
 
@@ -251,10 +135,9 @@
       alt="Upwork"
       width="48"
       height="48"
-      style="width:48px; height:48px;"
     />
   </a>
 
 </p>
 
-<hr/>
+---
