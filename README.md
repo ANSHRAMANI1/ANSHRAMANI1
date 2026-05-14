@@ -163,16 +163,16 @@
 	<a href="mailto:work.anshramani3014@gmail.com"> <img 
     src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" 
     alt="Upwork"
-    width="32"
-    height="32"
-    style="width:32px; height:32px;"
+    width="54"
+    height="54"
+    style="width:54px; height:54px;"
   /></a>
 	<a href="https://www.upwork.com/freelancers/~0169dbb8a7f7cf38e6"> <img 
-    src="https://cdn-icons-png.flaticon.com/128/15527/15527365.png" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-upwork-icon-svg-download-png-3030271.png?f=webp" 
     alt="Upwork"
-    width="32"
-    height="32"
-    style="width:32px; height:32px;"
+    width="54"
+    height="54"
+    style="width:54px; height:54px;"
   /></a>
 	
 </p>
