@@ -153,14 +153,6 @@
     &emsp;
     
 </p>
-<h2>👉 My Statistics</h2>
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadHananAsghar&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHananAsghar&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 <br>
 
 <h3>Ooooooh! Where's my contributions going Hehehehe</h3>
@@ -168,13 +160,9 @@
   
 ## 😎 Let's Connect
 <p align="center">
-  <a href="https://i-am-sultan.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:muhammadhananasghar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/MuhammadHananAsghar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="mailto:work.anshramani3014@gmail.com"><img src="[https://img.icons8.com/bubbles/50/000000/gmail.png](https://github.com/ANSHRAMANI1/ANSHRAMANI1/blob/main/gmail.svg)" alt="Gmail"/></a>
+	<a href="https://github.com/MuhammadHananAsghar"><img src="[https://img.icons8.com/bubbles/50/000000/github.png](https://github.com/ANSHRAMANI1/ANSHRAMANI1/blob/main/upwork.svg)" alt="Upwork"/></a>
 	
 </p>
 
 <hr/>
-
-* Credit: [Muhammad Hanan Asghar](https://github.com/MuhammadHananAsghar)
-* Last Edited on: 15/07/2023
