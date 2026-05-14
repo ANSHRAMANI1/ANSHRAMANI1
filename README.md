@@ -13,12 +13,15 @@
 
 # About Me! 😎
 
-- 🏫 I'm an Artificial Intelligence Engineer.
-- 🌱 Currently learning more about AI Architectures & Algorithms.
-- 🤔 I enjoy helping others, feel free to contact me anytime.
-- 💬 Ask me about Data Analysis, Visualization & Machine Learning.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play games, piano & draw paintings.
+- 🚀 Passionate about building intelligent systems & futuristic AI experiences.
+- 🧠 Exploring the depths of AI Architectures, LLMs & smart algorithms every single day.
+- 🤝 Love collaborating, helping people & turning ideas into reality.
+- 📊 Ask me about AI, Data Science, Visualization, Machine Learning & Automation magic.
+- ⚡ Building cool things with code while chasing innovation & creativity.
+- 🌍 Traveler by heart, 🏊 swimmer by passion.
+- 🔥 Turning coffee ☕ into scalable solutions since day one.
+- 😎 Pronouns: He/Him
+
 
 ---
 
