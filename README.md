@@ -74,19 +74,6 @@
 
 </div>
 
----
-
-<h3>👉 Graphic Designing</h3>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-
-</div>
 
 ---
 
@@ -102,7 +89,7 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
 
-  <br><br>
+  <br>
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
