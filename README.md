@@ -160,8 +160,20 @@
   
 ## 😎 Let's Connect
 <p align="center">
-	<a href="mailto:work.anshramani3014@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail"/></a>
-	<a href="https://github.com/MuhammadHananAsghar"><img src="[https://img.icons8.com/bubbles/50/000000/github.png](https://github.com/ANSHRAMANI1/ANSHRAMANI1/blob/main/upwork.svg)" alt="Upwork"/></a>
+	<a href="mailto:work.anshramani3014@gmail.com"> <img 
+    src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" 
+    alt="Upwork"
+    width="32"
+    height="32"
+    style="width:32px; height:32px;"
+  /></a>
+	<a href="https://www.upwork.com/freelancers/~0169dbb8a7f7cf38e6"> <img 
+    src="https://cdn-icons-png.flaticon.com/128/15527/15527365.png" 
+    alt="Upwork"
+    width="32"
+    height="32"
+    style="width:32px; height:32px;"
+  /></a>
 	
 </p>
 
